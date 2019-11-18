@@ -1,0 +1,7 @@
+.*
+!.gitattributes
+!.gitignore
+/vendor/
+composer.lock
+*.cache
+*.log
